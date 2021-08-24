@@ -36,7 +36,7 @@
         <text-wrap-fit-box.version>1.0.0</text-wrap-fit-box.version>
         <fontface.version>1.0.0</fontface.version>
         <snakeyaml.version>1.29</snakeyaml.version>
-        <smallrye-config.version>2.4.3</smallrye-config.version>
+        <smallrye-config.version>2.4.4</smallrye-config.version>
     </properties>
 
     <dependencyManagement>
